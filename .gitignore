@@ -1,0 +1,15 @@
+*.o
+*.exe
+chip8
+*.out
+*.so
+*.a
+*.dll
+*.dylib
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
